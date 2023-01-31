@@ -1,0 +1,1 @@
+export 'bakgroundimage.dart';
